@@ -1,5 +1,9 @@
 {
-  "name": "uikit-new",
+  "name": "@guillaumejparis/uikit-new",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guillaumejparis/uikit-new.git"
+  },
   "version": "0.0.3",
   "publishConfig": {
     "guillaumejparis:registry": "https://npm.pkg.github.com"
