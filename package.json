@@ -1,6 +1,6 @@
 {
   "name": "uikit-new",
-  "version": "0.0.1-beta.1",
+  "version": "0.0.2",
   "publishConfig": {
     "guillaumejparis:registry": "https://npm.pkg.github.com"
   },
