@@ -6,7 +6,7 @@ This is a package written for training and practice, the following technologies 
 - Styled Components
 - Rollup
 - StoryBook
-- Jest3
+- Jest2
 
 Thanks to blog rocket logrocket.com
 https://blog.logrocket.com/how-to-build-component-library-react-typescript
